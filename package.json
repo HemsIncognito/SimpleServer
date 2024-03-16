@@ -1,0 +1,23 @@
+{
+  "name": "project_3",
+  "version": "1.0.0",
+  "description": "server appn",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackHarperIMF/FSWD_Project-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackHarperIMF/FSWD_Project-3/issues"
+  },
+  "homepage": "https://github.com/JackHarperIMF/FSWD_Project-3#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
