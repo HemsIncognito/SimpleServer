@@ -1,6 +1,10 @@
 const http = require("http");
+const express = require("express")
 
-const PORT = 8082;
+
+const app = express();
+
+app.use(express.json());
 
 const toDoList = ["Hello!", "this is just a", "Database"];
 
