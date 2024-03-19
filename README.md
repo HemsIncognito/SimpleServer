@@ -1,14 +1,18 @@
-# Simple Todo List Server
+# Backend Fundamentals - Builiding a Server
 
 ## Topics Covered
 - **Simple Server**: This repository demonstrates a basic Node.js server that implements CRD operations (Create, Read, Delete) for a simple to-do list.
 - **HTTP Methods:** The server leverages GET, POST, and DELETE methods for interacting with the to-do list.
-- **Node.js**: The code is written in JavaScript using Node.js for server-side functionality.
+- **Express.js Server**: The code is demonstrates a basic Node.js server built with Express.js framework that implements CRUD operations (Create, Read, Delete) for a simple to-do list without error handling.
 
 ## Skills Highlighted
 - **Understanding of HTTP Methods:** The code demonstrates the ability to utilize GET, POST, and DELETE methods for CRUD operations (excluding update).
-- **Node.js Fundamentals:** The code showcases basic Node.js functionalities for building a server application.
-- **Usage of ThunderClient:** 
+- **Backend Fundamentals:** The code showcases basic Node.js functionalities and usage of express.js framework for building a server application.
+- **Used ThunderClient** 
+
+### Updates to be made:
+- Error Handling.
+- Add Update Method.
 
 ## API Endpoints    
 Using *Thunder Client*, a popular VS Code extension, this simplifies interacting with API.
