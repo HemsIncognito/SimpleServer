@@ -10,9 +10,9 @@
 - **Backend Fundamentals:** The code showcases basic Node.js functionalities and usage of express.js framework for building a server application.
 - **Used ThunderClient** 
 
-### Updates to be made:
-- Error Handling.
-- Add Update Method.
+### NOTE:
+- *No Error Handling*.
+- *No Update Method.*
 
 ## API Endpoints    
 Using *Thunder Client*, a popular VS Code extension, this simplifies interacting with API.
