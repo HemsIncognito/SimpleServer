@@ -1,4 +1,4 @@
-# Backend Fundamentals - Builiding a Server
+# Simple Server | Backend Fundamentals | FSWD-3
 
 ## Topics Covered
 - **Simple Server**: This repository demonstrates a basic Node.js server that implements CRD operations (Create, Read, Delete) for a simple to-do list.
