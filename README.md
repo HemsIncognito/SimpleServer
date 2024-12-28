@@ -5,14 +5,11 @@
 - **HTTP Methods:** The server leverages GET, POST, and DELETE methods for interacting with the to-do list.
 - **Express.js Server**: The code is demonstrates a basic Node.js server built with Express.js framework that implements CRUD operations (Create, Read, Delete) for a simple to-do list without error handling.
 
-## Skills Highlighted
-- **Understanding of HTTP Methods:** The code demonstrates the ability to utilize GET, POST, and DELETE methods for CRUD operations (excluding update).
-- **Backend Fundamentals:** The code showcases basic Node.js functionalities and usage of express.js framework for building a server application.
-- **Used ThunderClient** 
 
 ### NOTE:
 - *No Error Handling*.
 - *No Update Method.*
+- *THIS IS PURELY FOR MY LEARNING PURPOSE*
 
 ## API Endpoints    
 Using *Thunder Client*, a popular VS Code extension, this simplifies interacting with API.
